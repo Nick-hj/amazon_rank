@@ -1,0 +1,8 @@
+__pycache__/
+*.git
+.idea/
+.vscode/
+test.py
+settings.toml
+*.log
+logs/
